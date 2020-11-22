@@ -6,8 +6,7 @@ description: |
 author:
   - name: Nora Jones 
     url: https://example.com/norajones
-    affiliation: Spacely Sprockets
-    affiliation_url: https://example.com/spacelysprokets
+
 date: 11-22-2020
 output:
   distill::distill_article:
